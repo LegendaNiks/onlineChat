@@ -1,0 +1,9 @@
+AddDefaultCharset utf-8
+AddCharset utf-8 *
+<ifModule mod_charset.c>
+CharsetSourceEnc utf-8
+Charsetdefault utf-8
+</ifModule>
+#DO NOT REMOVE THIS LINE AND THE LINES DELOW ERRORPAGEID:uVyrav
+ErrorDocument 404 /404.html
+#DO NOT REMOVE THIS LINE AND LINES ABOVE uVyrav:ERRORPAGEID
