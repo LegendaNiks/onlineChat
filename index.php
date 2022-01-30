@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8"/>
-<link href="styles/css/style.css" rel="stylesheet"/>
+<link href="style.css" rel="stylesheet"/>
 </head>
 
 <body>
